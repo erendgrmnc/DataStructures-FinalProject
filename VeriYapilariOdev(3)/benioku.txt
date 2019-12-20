@@ -1,0 +1,1 @@
+Enter tuşuna basıldığında bir sonraki tura geçer.
